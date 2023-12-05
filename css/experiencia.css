@@ -32,6 +32,7 @@
   margin-bottom: 20px;
   border-radius: 4px;
   position: relative;
+  cursor: pointer;
 }
 
 .empresa::before {
@@ -43,6 +44,15 @@
   position: absolute;
   top: 20px;
   left: -4px;
+  transition: 0.2s;
+}
+
+.empresa:hover::before{
+  height: 25px;
+}
+
+.empresa:hover{
+  background:  #e0e0e0;;
 }
 
 .empresa-ano {
