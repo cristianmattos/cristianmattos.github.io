@@ -55,6 +55,8 @@
   border-radius: 4px;
   display: flex;
   flex-direction: column;
+  cursor: pointer;
+
 }
 
 .faculdade-tipo {
@@ -152,4 +154,10 @@
     position: initial;
     margin-bottom: 10px;
   }
+}
+
+@media (max-width: 800px) {
+.faculdade-lista{
+  flex-direction: column;
+}
 }
