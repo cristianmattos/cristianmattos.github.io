@@ -34,3 +34,14 @@
     border-radius: 4px;
   }
 }
+
+
+@media (max-width: 420px) {
+  .header-menu a {
+ 
+         font-size: 0.9rem;
+
+
+  }
+
+}

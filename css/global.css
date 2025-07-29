@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Fira Sans", Arial, sans-serif;
   margin: 0px;
@@ -38,3 +42,21 @@ img {
     max-width: initial !important;
   }
 }
+
+
+@property --gradient-angle {
+  syntax: "<angle>";
+  initial-value: 132deg;
+  inherits: false;
+}
+
+
+@keyframes rotation {
+  0% {
+    --gradient-angle: 0deg;
+  }
+  100% {
+    --gradient-angle : 360deg;
+  }
+}
+
