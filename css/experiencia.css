@@ -79,11 +79,13 @@ z-index: -1;
   font-weight: bold;
 }
 
-.empresa-texto {
+.empresa-texto, .empresa-texto-en {
   font-size: 0.875rem;
   line-height: 1.4;
   color: #525252;
 }
+
+ 
 
 .empresa-habilidades {
   display: flex;
@@ -128,23 +130,27 @@ z-index: -1;
 }
 
 
-
-
-
 @media (min-width: 1000px){
  .empresa:hover{
     padding: 20px 25px 20px 25px;
      transition: 0.5s;
   }
 
-.empresa:hover p.empresa-texto, .empresa:hover h3.empresa-titulo,
+.empresa:hover p.empresa-texto,.empresa:hover p.empresa-texto-en,
+.empresa:hover h3.empresa-titulo,
 .empresa:hover span.empresa-titulo,.empresa:hover ul.empresa-habilidades{
   padding-left: 10px;
        transition: 0.5s;
 
 }
-
+.empresa-texto-en {
+  width: 335px;
 }
+}
+
+
+
+
 
 
 
