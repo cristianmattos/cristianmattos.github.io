@@ -1,0 +1,12 @@
+.sub-he{
+  width: 141px;
+}
+
+ 
+@media (max-width: 1000px){
+.sub-he {
+  width: 160px;
+
+}
+ 
+}

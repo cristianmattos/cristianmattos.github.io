@@ -53,4 +53,7 @@ const lang = document.documentElement.lang + '/'
     // Chama a função de redirecionamento quando a página é carregada
     redirectToLocalizedPage();
 });
+
+
+
 ]

@@ -136,16 +136,14 @@ z-index: -1;
      transition: 0.5s;
   }
 
-.empresa:hover p.empresa-texto,.empresa:hover p.empresa-texto-en,
+.empresa:hover p.empresa-texto,
 .empresa:hover h3.empresa-titulo,
 .empresa:hover span.empresa-titulo,.empresa:hover ul.empresa-habilidades{
   padding-left: 10px;
        transition: 0.5s;
 
 }
-.empresa-texto-en {
-  width: 335px;
-}
+
 }
 
 

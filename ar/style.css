@@ -1,0 +1,13 @@
+
+.sub-ar {
+  width: 74px;
+
+}
+ 
+@media (max-width: 1000px){
+.sub-ar {
+  width: 126px;
+
+}
+ 
+}
