@@ -1,0 +1,23 @@
+ html[lang="ar"] body .subtitulo{
+  width: 30px;
+
+}
+
+html[lang="ar"] body .formacao h2{
+
+  width: 60px;
+} 
+
+@media (max-width: 800px){
+ html[lang="ar"] body .subtitulo{
+  width: auto;
+}
+
+
+html[lang="ar"] body .formacao h2{
+
+  width: auto;
+} 
+
+}
+

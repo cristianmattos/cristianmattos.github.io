@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" id="html-element">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>devcris</title>
-  <meta name="description" content="Densenvolvedor Front End & UX/UI Designer Localizado em São Paulo ">
+  <meta name="description" content="Desenvolvedor Front End & UX/UI Designer Localizado em São Paulo ">
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,14 +16,48 @@
 </head>
 
 <body>
+  <!-- Seletor de idiomas -->
+
+
+  <!-- Indicador de carregamento -->
+  <div class="loading-indicator" id="loading-indicator">
+    <div>Carregando idioma...</div>
+  </div>
 
   <header class="header">
-    <img src="/img/devcris.svg " alt="devcris" width="104" height="38">
+    <a href="./"><img src="/img/devcris.svg " alt="devcris" width="104" height="38"></a>
     <nav>
       <ul class="header-menu">
-        <li><a href="#experiencia">Expêriencia</a></li>
-        <li><a href="#formacao">Formação</a></li>
-        <li><a href="#contato">Contato</a></li>
+        <li><a href="#experiencia" id="nav-experience">Experiência</a></li>
+        <li><a href="#formacao" id="nav-education">Formação</a></li>
+        <li><a href="#contato" id="nav-contact">Contato</a></li>
+        <li>
+          <div class="language-selector">
+            <select id="language-selector" aria-label="Selecionar idioma">
+              <option value="auto">🌐 </option>
+              <option value="en">🇺🇸</option>
+              <option value="pt">🇧🇷</option>
+              <option value="es">🇪🇸</option>
+              <option value="zh">🇨🇳</option>
+              <option value="hi">🇮🇳</option>
+              <option value="fr">🇫🇷</option>
+              <option value="de">🇩🇪</option>
+              <option value="ja">🇯🇵</option>
+              <option value="ru">🇷🇺</option>
+              <option value="ar">🇸🇦</option>
+              <option value="ko">🇰🇷</option>
+              <option value="it">🇮🇹</option>
+              <option value="tr">🇹🇷</option>
+              <option value="nl">🇳🇱</option>
+              <option value="pl">🇵🇱</option>
+              <option value="sv">🇸🇪</option>
+              <option value="he">🇮🇱</option>
+              <option value="no">🇳🇴</option>
+              <option value="da">🇩🇰</option>
+            </select>
+          </div>
+        </li>
+
       </ul>
     </nav>
   </header>
@@ -31,25 +65,22 @@
   <main class="introducao">
     <img src="/img/perfil.jpg" alt="Foto Cristian Desenvolvedor" width="360" height="520">
     <div>
-      <h1>Densenvolvedor<br>
-        Front End &<br>
-        UX/UI Designer</h1>
-      <p>Local capital de São Paulo 📍</p>
+      <h1 id="intro-title">Desenvolvedor Front End & UX/UI Designer</h1>
+      <p id="intro-location">Local capital de São Paulo 📍</p>
     </div>
-
   </main>
 
-  <section  class="experiencia" id="experiencia" aria-label="Experiência">
-    <h2 class="subtitulo">Experiência</h2>
+  <section class="experiencia" id="experiencia" aria-label="Experiência">
+    <h2 class="subtitulo" id="experience-title">Experiência</h2>
 
     <div>
-      <p class="experiencia-texto">Desenvolvo pequenos projetos como o Animais Fantásticos utilizando apenas <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>APIs</strong> externas. Para aplicativos web como o Bikcraft eu trabalhei no <strong>UX</strong> e <strong>UI Design</strong> do projeto. Também utilizo o <strong>Google Tag Manager</strong> para gerenciar tags de monitoramento como o <strong>Google Analytics</strong>, facilitando o acompanhamento do tráfego e das interações no site.</p>
+      <p class="experiencia-texto" id="experience-text">Desenvolvo pequenos projetos como o Animais Fantásticos utilizando apenas <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>APIs</strong> externas. Para aplicativos web como o Bikcraft eu trabalhei no <strong>UX</strong> e <strong>UI Design</strong> do projeto. Também utilizo o <strong>Google Tag Manager</strong> para gerenciar tags de monitoramento como o <strong>Google Analytics</strong>, facilitando o acompanhamento do tráfego e das interações no site.</p>
 
       <div class="empresa" onclick="abrirEmNovaAba('bikcraft')">
         <span class="empresa-ano"> 2023</span>
-        <h3 class="empresa-titulo">Bikcraft</h3>
-        <span class="empresa-titulo">Tecnologias</span>
-        <p class="empresa-texto">Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft.</p>
+        <h3 class="empresa-titulo" id="project-title-1">Bikcraft</h3>
+        <span class="empresa-titulo" id="tech-label-1">Tecnologias</span>
+        <p class="empresa-texto" id="project-desc-1">Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cliente. Explore o mundo na sua velocidade com a Bikcraft.</p>
         <ul class="empresa-habilidades">
           <li>HTML</li>
           <li>CSS</li>
@@ -61,9 +92,9 @@
 
       <div class="empresa" onclick="abrirEmNovaAba('animaisBlog')">
         <span class="empresa-ano"> 2023</span>
-        <h3 class="empresa-titulo">Animais Fantásticos</h3>
-        <span class="empresa-titulo">Tecnologias</span>
-        <p class="empresa-texto">As raposas são animais mamíferos e onívoros pertencentes à família Canidae. São vulpídeos de porte médio.</p>
+        <h3 class="empresa-titulo" id="project-title-2">Animais Fantásticos</h3>
+        <span class="empresa-titulo" id="tech-label-2">Tecnologias</span>
+        <p class="empresa-texto" id="project-desc-2">As raposas são animais mamíferos e onívoros pertencentes à família Canidae. São vulpídeos de porte médio.</p>
         <ul class="empresa-habilidades">
           <li>HTML</li>
           <li>CSS</li>
@@ -76,99 +107,76 @@
 
       <div class="empresa" onclick="window.open('https://cubomagico.pages.dev')">
         <span class="empresa-ano"> 2024</span>
-        <h3 class="empresa-titulo">Cubo</h3>
-        <span class="empresa-titulo">Tecnologias</span>
-        <p class="empresa-texto">Seja criativo tenha habilidiades Motoras, foco, Paciencia e ajude seu cerebro a melhorar suas habilidades cognitivas compre seu cubo magico.</p>
+        <h3 class="empresa-titulo" id="project-title-3">Cubo</h3>
+        <span class="empresa-titulo" id="tech-label-3">Tecnologias</span>
+        <p class="empresa-texto" id="project-desc-3">Seja criativo tenha habilidiades Motoras, foco, Paciencia e ajude seu cerebro a melhorar suas habilidades cognitivas compre seu cubo magico.</p>
         <ul class="empresa-habilidades">
           <li>HTML</li>
           <li>CSS</li>
           <li>JAVASCRIPT</li>
           <li>APIS</li>
           <li>UX DESIGN</li>
-
-
           <li>GOOGLE TAG MANAGER</li>
         </ul>
-
       </div>
-    </div>
     </div>
   </section>
 
-
   <section class="formacao" id="formacao" aria-label="Formação">
     <div class="formacao-container">
-      <h2 class="subtitulo">Formação</h2>
+      <h2 class="subtitulo" id="education-title">Formação</h2>
 
       <div>
-        <p class="formacao-texto">
+        <p class="formacao-texto" id="education-text">
           Minha mais recente experiência acadêmica foi como <strong>Técnico</strong> em <strong>Desenvolvimento de
             Sistemas</strong> 🎓 tendo destaque como <strong>melhor analista Desenvolvedor mobile</strong>. Além disso, mantenho-me sempre atualizado com cursos intensivos online.
         </p>
 
         <ul class="faculdade-lista">
-
-        
           <li class="faculdade" onclick="abrirEmNovaAba('certificates/BOLETIM_33945.pdf')">
-            <span class="faculdade-tipo">técnico</span>
-            <h3 class="faculdade-curso">Desenvolvimento de Sistemas</h3>
+            <span class="faculdade-tipo" id="degree-type-1">técnico</span>
+            <h3 class="faculdade-curso" id="course-title-1">Desenvolvimento de Sistemas</h3>
             <span class="faculdade-instituicao">ETEC Basilides de Godoy</span>
           </li>
 
           <li class="faculdade" onclick="abrirEmNovaAba('certificates/analista-desenvolvedor-mobile.pdf')">
-            <span class="faculdade-tipo">titulo de destaque 🏆</span>
-            <h3 class="faculdade-curso">Melhor analista Desenvolvedor mobile</h3>
+            <span class="faculdade-tipo" id="degree-type-2">titulo de destaque 🏆</span>
+            <h3 class="faculdade-curso" id="degree-course-2">Melhor analista Desenvolvedor mobile</h3>
             <span class="faculdade-instituicao">ETEC Basilides de Godoy</span>
           </li>
 
           <li class="faculdade" onclick="window.open('https://www.origamid.com/certificate/b93914c1')">
-            <span class="faculdade-tipo">Certificações</span>
-            <h3 class="faculdade-curso">Front End &
+            <span class="faculdade-tipo" id="degree-type-3">Certificações</span>
+            <h3 class="faculdade-curso" id="course-title-3">Front End &
               UX/UI Design</h3>
             <span class="faculdade-instituicao">ORIGAMID</span>
           </li>
-
         </ul>
 
         <div class="formacao-extra">
-
           <div class="cursos">
-            <h3>Cursos Intensivos</h3>
-            <ul>
-              <li>Ux Design & UI Design <span>34h</span></li>
-              <li>Front End para Iniciantes<span>46h</span></li>
+            <h3 id="intensive-courses-title">Cursos Intensivos</h3>
+            <ul id="intensive-courses-list">
+              <li id="intensive-course-1">Ux Design & UI Design <span>34h</span></li>
+              <li id="intensive-course-2">Front End para Iniciantes<span>46h</span></li>
             </ul>
           </div>
-
-          <!-- <div class="idiomas">
-            <h3>Idiomas</h3>
-            <ul>
-              <li>Inglês <span>/ Fluente</span></li>
-              <li>Espanhol<span>/ Intermediário</span></li>
-            </ul>
-          </div> -->
-
         </div>
       </div>
     </div>
   </section>
 
-
-
   <footer class="footer" id="contato">
     <div class="footer-container" id="contato">
-      <p class="footer-texto">Estou disponível para novos projetos no momento. Entre em contato comigo e marcamos uma conversa 👋</p>
+      <p class="footer-texto" id="footer-text">Estou disponível para novos projetos no momento. Entre em contato comigo e marcamos uma conversa 👋</p>
       <ul class="footer-contato">
         <li>cristiaguedes1402@gmail.com</li>
         <li>+55 11 93055-3294</li>
-   
       </ul>
       <p class="footer-copy">devcris.</p>
     </div>
   </footer>
-
-
-  <script src="script.js"></script>
+<script src="./script.js"></script>
 </body>
 
 </html>

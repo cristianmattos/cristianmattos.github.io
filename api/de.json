@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Erfahrung",
+    "education": "Ausbildung",
+    "contact": "Kontakt"
+  },
+  "intro": {
+    "title": "Front-end Entwickler & UX/UI Designer",
+    "location": "Mit Sitz in São Paulo, Brasilien 📍"
+  },
+  "experience": {
+    "sectionTitle": "Erfahrung",
+    "text": "Ich entwickle kleine Projekte wie \"Fantastische Tiere\" nur mit <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> und externen <strong>APIs</strong>. Bei Webanwendungen wie \"Bikcraft\" war ich für das <strong>UX</strong>- und <strong>UI-Design</strong> verantwortlich. Ich verwende auch den <strong>Google Tag Manager</strong>, um Tracking-Tags wie <strong>Google Analytics</strong> zu verwalten und die Website-Interaktionen besser zu analysieren.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Technologien",
+        "description": "Hochwertige, maßgeschneiderte Elektrofahrräder mit Präzision gefertigt. Entdecke die Welt in deinem Tempo mit Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Fantastische Tiere",
+        "technologies": "Technologien",
+        "description": "Füchse sind Säugetiere und Allesfresser der Familie Canidae. Sie sind mittelgroße Vulpiden.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Würfel",
+        "technologies": "Technologien",
+        "description": "Sei kreativ, entwickle motorische Fähigkeiten, Konzentration, Geduld und verbessere deine kognitiven Fähigkeiten. Hol dir deinen Zauberwürfel.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Ausbildung",
+    "text": "Meine jüngste akademische Erfahrung war als <strong>Techniker</strong> für <strong>Systementwicklung</strong> 🎓 mit Auszeichnung als <strong>bester Mobile-Entwickler</strong>. Ich bleibe immer auf dem Laufenden mit intensiven Online-Kursen.",
+    "schools": [
+      {
+        "type": "Techniker",
+        "course": "Systementwicklung",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Auszeichnungstitel 🏆",
+        "course": "Bester Mobile-Entwickler",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Zertifizierungen",
+        "course": "Frontend & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Intensivkurse",
+      "courses": [
+        "UX Design & UI Design <span>34h</span>",
+        "Frontend für Einsteiger <span>46h</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Ich bin derzeit für neue Projekte verfügbar. Kontaktieren Sie mich, und wir vereinbaren ein Gespräch 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

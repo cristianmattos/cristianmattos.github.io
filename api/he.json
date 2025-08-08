@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "ניסיון",
+    "education": "השכלה",
+    "contact": "צור קשר"
+  },
+  "intro": {
+    "title": "מפתח פרונט אנד & מעצב UX/UI",
+    "location": "ממוקם בסאו פאולו 📍"
+  },
+  "experience": {
+    "sectionTitle": "ניסיון",
+    "text": "אני מפתח פרויקטים קטנים כמו \"חיות פלא\" באמצעות <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> ו<strong>APIs</strong> חיצוניות בלבד. עבור אפליקציות ווב כמו Bikcraft עבדתי על <strong>UX</strong> ו<strong>UI Design</strong> של הפרויקט. אני משתמש גם ב<strong>Google Tag Manager</strong> לניהול תגיות מעקב כמו <strong>Google Analytics</strong>, מה שמקל על מעקב אחרי התנועה והאינטראקציות באתר.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "טכנולוגיות",
+        "description": "אופניים חשמליים מדויקים ואיכותיים, מותאמים אישית ללקוח. גלה את העולם בקצב שלך עם Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "חיות פלא",
+        "technologies": "טכנולוגיות",
+        "description": "שועלים הם יונקים ואוכלי כל ממשפחת הכלביים. הם זאבים בגודל בינוני.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "קובייה",
+        "technologies": "טכנולוגיות",
+        "description": "תהיה יצירתי, פתח יכולות מוטוריות, ריכוז, סבלנות ועזור למוח שלך לשפר את היכולות הקוגניטיביות שלו. קנה את הקובייה הקסומה שלך.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "השכלה",
+    "text": "הניסיון האקדמי האחרון שלי היה כ<strong>טכנאי</strong> ב<strong>פיתוח מערכות</strong> 🎓 עם הצטיינות כ<strong>הטכנאי הטוב ביותר לפיתוח מובייל</strong>. בנוסף, אני נשאר מעודכן תמיד עם קורסים אינטנסיביים מקוונים.",
+    "schools": [
+      {
+        "type": "טכנאי",
+        "course": "פיתוח מערכות",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "תואר הצטיינות 🏆",
+        "course": "הטכנאי הטוב ביותר לפיתוח מובייל",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "תעודות",
+        "course": "פרונט אנד & UX/UI עיצוב",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "קורסים אינטנסיביים",
+      "courses": [
+        "UX Design & UI Design <span>34 שעות</span>",
+        "Frontend למתחילים <span>46 שעות</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "אני זמין לפרויקטים חדשים כרגע. צרו איתי קשר ונקבע שיחה 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

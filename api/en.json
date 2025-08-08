@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Experience",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "intro": {
+    "title": "Frontend Developer & UX/UI Designer",
+    "location": "Based in São Paulo, Brazil 📍"
+  },
+  "experience": {
+    "sectionTitle": "Experience",
+    "text": "I develop small projects like Fantastic Animals using only <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and external <strong>APIs</strong>. For web applications like Bikcraft, I worked on the project’s <strong>UX</strong> and <strong>UI Design</strong>. I also use <strong>Google Tag Manager</strong> to manage tracking tags like <strong>Google Analytics</strong>, facilitating the monitoring of traffic and site interactions.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Technologies",
+        "description": "High-precision and quality electric bicycles, custom-made for the customer. Explore the world at your own pace with Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Fantastic Animals",
+        "technologies": "Technologies",
+        "description": "Foxes are mammalian and omnivorous animals belonging to the Canidae family. They are medium-sized vulpines.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Cubo",
+        "technologies": "Technologies",
+        "description": "Be creative, develop motor skills, focus, patience, and help your brain improve its cognitive abilities. Get your Rubik’s cube now.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Education",
+    "text": "My most recent academic experience was as a <strong>Technical</strong> student in <strong>Systems Development</strong> 🎓, standing out as the <strong>best mobile developer analyst</strong>. In addition, I keep myself up to date with intensive online courses.",
+    "schools": [
+      {
+        "type": "technical",
+        "course": "Systems Development",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "highlight title 🏆",
+        "course": "Best Mobile Developer Analyst",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certifications",
+        "course": "Front End & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Intensive Courses",
+      "courses": [
+        "UX Design & UI Design <span>34h</span>",
+        "Front End for Beginners <span>46h</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "I’m currently available for new projects. Contact me and let’s have a conversation 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

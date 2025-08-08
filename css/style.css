@@ -4,18 +4,19 @@
 @import "./experiencia.css";
 @import "./formacao.css";
 @import "./footer.css";
+/* @import "./language.css"; */
 
 
 /* arabe */
-@import "../ar/style.css";
+@import "./ar.css"; 
 /* alemao */
-@import "../de/style.css";
+/* @import "../de/style.css"; */
 /* ingles */
-@import "../en/style.css";
+/* @import "../en/style.css"; */
 /* hebraico */
-@import "../he/style.css";
+@import "./he.css";
 /* frances */
-@import "../fr/style.css";
+/* @import "../fr/style.css"; */
 
 
 

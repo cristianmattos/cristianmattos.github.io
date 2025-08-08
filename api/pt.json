@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Experiência",
+    "education": "Formação",
+    "contact": "Contato"
+  },
+  "intro": {
+    "title": "Desenvolvedor Front End & UX/UI Designer",
+    "location": "Localizado na capital de São Paulo 📍"
+  },
+  "experience": {
+    "sectionTitle": "Experiência",
+    "text": "Desenvolvo pequenos projetos como o Animais Fantásticos utilizando apenas <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>APIs</strong> externas. Para aplicativos web como o Bikcraft eu trabalhei no <strong>UX</strong> e <strong>UI Design</strong> do projeto. Também utilizo o <strong>Google Tag Manager</strong> para gerenciar tags de monitoramento como o <strong>Google Analytics</strong>, facilitando o acompanhamento do tráfego e das interações no site.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Tecnologias",
+        "description": "Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para o cliente. Explore o mundo no seu ritmo com Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Animais Fantásticos",
+        "technologies": "Tecnologias",
+        "description": "As raposas são animais mamíferos e onívoros pertencentes à família Canidae. São vulpídeos de porte médio.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Cubo",
+        "technologies": "Tecnologias",
+        "description": "Seja criativo, desenvolva habilidades motoras, foco, paciência e ajude seu cérebro a melhorar suas habilidades cognitivas. Adquira seu cubo mágico agora.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Formação",
+    "text": "Minha mais recente experiência acadêmica foi como <strong>Técnico</strong> em <strong>Desenvolvimento de Sistemas</strong> 🎓 tendo destaque como <strong>melhor analista desenvolvedor mobile</strong>. Além disso, mantenho-me sempre atualizado com cursos intensivos online.",
+    "schools": [
+      {
+        "type": "técnico",
+        "course": "Desenvolvimento de Sistemas",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "título de destaque 🏆",
+        "course": "Melhor analista desenvolvedor mobile",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certificações",
+        "course": "Front End & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Cursos Intensivos",
+      "courses": [
+        "UX Design & UI Design <span>34h</span>",
+        "Front End para Iniciantes <span>46h</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Estou disponível para novos projetos no momento. Entre em contato comigo e vamos conversar 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

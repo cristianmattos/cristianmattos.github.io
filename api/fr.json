@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "experience": "Expérience",
+    "education": "Formation",
+    "contact": "Contact"
+  },
+  "intro": {
+    "title": "Développeur Front End & UX/UI Designer",
+    "location": "Situé dans la capitale de São Paulo 📍"
+  },
+  "experience": {
+    "sectionTitle": "Expérience",
+    "text": "Je développe de petits projets comme Animais Fantásticos en utilisant uniquement <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> et des <strong>APIs</strong> externes. Pour des applications web comme Bikcraft, j'ai travaillé sur le <strong>UX</strong> et le <strong>UI Design</strong> du projet. J'utilise également <strong>Google Tag Manager</strong> pour gérer les balises de suivi comme <strong>Google Analytics</strong>, facilitant le suivi du trafic et des interactions sur le site.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Technologies",
+        "description": "Vélos électriques de haute précision et de qualité, faits sur mesure pour le client. Explorez le monde à votre rythme avec Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Animaux Fantastiques",
+        "technologies": "Technologies",
+        "description": "Les renards sont des mammifères omnivores appartenant à la famille des Canidés. Ce sont des canidés de taille moyenne.",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
+      },
+      {
+        "year": "2024",
+        "name": "Cube",
+        "technologies": "Technologies",
+        "description": "Soyez créatif, développez vos compétences motrices, votre concentration, votre patience et aidez votre cerveau à améliorer ses capacités cognitives en achetant votre cube magique.",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Formation",
+    "text": "Ma dernière expérience académique a été un <strong>Diplôme Technique</strong> en <strong>Développement de Systèmes</strong> 🎓 avec une distinction en tant que <strong>meilleur analyste développeur mobile</strong>. En plus, je reste toujours à jour grâce à des cours intensifs en ligne.",
+    "schools": [
+      {
+        "type": "technique",
+        "course": "Développement de Systèmes",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "titre d'excellence 🏆",
+        "course": "Meilleur analyste développeur mobile",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certifications",
+        "course": "Front End & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Cours intensifs",
+      "courses": [
+        "UX Design & UI Design <span>34h</span>",
+        "Front End pour Débutants <span>46h</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Je suis disponible pour de nouveaux projets en ce moment. Contactez-moi et organisons une rencontre 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

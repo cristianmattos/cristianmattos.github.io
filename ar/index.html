@@ -1,167 +1,0 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>devcris</title>
-  <meta name="description" content="Front End Developer & UX/UI Designer Based in São Paulo">
-  <link rel="stylesheet" href="../css/style.css">
-
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap" rel="stylesheet">
-</head>
-
-<body>
-
-  <header class="header">
-    <img src="/img/devcris.svg" alt="devcris" width="104" height="38" />
-    <nav>
-      <ul class="header-menu">
-        <li><a href="#experiencia">الخبرة</a></li>
-        <li><a href="#formacao">التعليم</a></li>
-        <li><a href="#contato">اتصل بي</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <main class="introducao">
-    <img src="/img/perfil.jpg" alt="صورة كريستيان مطور" width="360" height="520" />
-    <div>
-      <h1>مطور<br />فرونت إند &<br />مصمم UX/UI</h1>
-      <p>مقيم في ساو باولو</p>
-    </div>
-  </main>
-
-  <section class="experiencia" id="experiencia" aria-label="الخبرة">
-    <h2 class="subtitulo sub-ar">الخبرة</h2>
-
-    <div>
-      <p class="experiencia-texto">
-        أقوم بتطوير مشاريع صغيرة مثل "الحيوانات الرائعة" باستخدام فقط <strong>HTML</strong>، <strong>CSS</strong>، <strong>JavaScript</strong> و<strong>APIs</strong> الخارجية. بالنسبة لتطبيقات الويب مثل Bikcraft، عملت على
-        <strong>UX</strong> و<strong>تصميم UI</strong> للمشروع. أستخدم أيضًا <strong>Google Tag Manager</strong> لإدارة علامات التتبع مثل <strong>Google Analytics</strong>، مما يسهل متابعة حركة المرور والتفاعلات على الموقع.
-      </p>
-
-      <div class="empresa" onclick="abrirEmNovaAba('bikcraft')">
-        <span class="empresa-ano">2023</span>
-        <h3 class="empresa-titulo">Bikcraft</h3>
-        <span class="empresa-titulo">التقنيات</span>
-        <p class="empresa-texto">
-          دراجات كهربائية عالية الدقة والجودة، مصممة خصيصًا للعميل. استكشف العالم بسرعة تناسبك مع Bikcraft.
-        </p>
-        <ul class="empresa-habilidades">
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>JAVASCRIPT</li>
-          <li>تصميم UX</li>
-          <li>تصميم UI</li>
-        </ul>
-      </div>
-
-      <div class="empresa" onclick="abrirEmNovaAba('animaisBlog')">
-        <span class="empresa-ano">2023</span>
-        <h3 class="empresa-titulo">الحيوانات الرائعة</h3>
-        <span class="empresa-titulo">التقنيات</span>
-        <p class="empresa-texto">
-          الثعالب هي حيوانات ثديية وكلية الغذاء تنتمي إلى عائلة الكلبيات. هي ثعالب متوسطة الحجم.
-        </p>
-        <ul class="empresa-habilidades">
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>JAVASCRIPT</li>
-          <li>APIS</li>
-          <li>تصميم UX</li>
-          <li>تصميم UI</li>
-        </ul>
-      </div>
-
-      <div class="empresa" onclick="window.open('https://cubomagico.pages.dev')">
-        <span class="empresa-ano">2024</span>
-        <h3 class="empresa-titulo">المكعب</h3>
-        <span class="empresa-titulo">التقنيات</span>
-        <p class="empresa-texto">
-          كن مبدعًا، طور مهاراتك الحركية، التركيز، الصبر وساعد عقلك على تحسين قدراته الإدراكية. اشترِ مكعبك السحري.
-        </p>
-        <ul class="empresa-habilidades">
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>JAVASCRIPT</li>
-          <li>APIS</li>
-          <li>تصميم UX</li>
-          <li>مدير العلامات من جوجل (Google Tag Manager)</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <section class="formacao" id="formacao" aria-label="التعليم">
-    <div class="formacao-container">
-      <h2 class="subtitulo">التعليم</h2>
-
-      <div>
-        <p class="formacao-texto">
-          كانت أحدث خبرة أكاديمية لي كـ <strong>فني</strong> في <strong>تطوير الأنظمة</strong> 🎓 مع تميز كـ <strong>أفضل محلل ومطور تطبيقات الجوال</strong>. بالإضافة إلى ذلك، أبقى محدثًا دائمًا من خلال الدورات المكثفة عبر الإنترنت.
-        </p>
-
-        <ul class="faculdade-lista">
-
-          <li class="faculdade" onclick="abrirEmNovaAba('certificates/BOLETIM_33945.pdf')">
-            <span class="faculdade-tipo">فني</span>
-            <h3 class="faculdade-curso">تطوير الأنظمة</h3>
-            <span class="faculdade-instituicao">ETEC Basilides de Godoy</span>
-          </li>
-
-          <li class="faculdade" onclick="abrirEmNovaAba('certificates/analista-desenvolvedor-mobile.pdf')">
-            <span class="faculdade-tipo">لقب متميز 🏆</span>
-            <h3 class="faculdade-curso">أفضل محلل ومطور تطبيقات الجوال</h3>
-            <span class="faculdade-instituicao">ETEC Basilides de Godoy</span>
-          </li>
-
-          <li class="faculdade" onclick="window.open('https://www.origamid.com/certificate/b93914c1')">
-            <span class="faculdade-tipo">الشهادات</span>
-            <h3 class="faculdade-curso">فرونت إند & تصميم UX/UI</h3>
-            <span class="faculdade-instituicao">ORIGAMID</span>
-          </li>
-
-        </ul>
-
-        <div class="formacao-extra">
-
-          <div class="cursos">
-            <h3>دورات مكثفة</h3>
-            <ul>
-              <li>تصميم UX & تصميم UI <span>34 ساعة</span></li>
-              <li>فرونت إند للمبتدئين <span>46 ساعة</span></li>
-            </ul>
-          </div>
-
-          <!-- <div class="idiomas">
-            <h3>اللغات</h3>
-            <ul>
-              <li>الإنجليزية <span>/ بطلاقة</span></li>
-              <li>الإسبانية <span>/ متوسط</span></li>
-            </ul>
-          </div> -->
-
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <footer class="footer" id="contato">
-    <div class="footer-container" id="contato">
-      <p class="footer-texto">أنا متاح للمشاريع الجديدة حاليًا. اتصل بي لنرتب محادثة 👋</p>
-      <ul class="footer-contato">
-        <li>cristiaguedes1402@gmail.com</li>
-        <li>+55 11 93055-3294</li>
-      </ul>
-      <p class="footer-copy">devcris.</p>
-    </div>
-  </footer>
-
-  <script src="script.js"></script>
-</body>
-
-</html>

@@ -1,0 +1,10 @@
+/* #language-selector option{
+  display: none;
+}
+
+#language-selector option[value="pt"],
+#language-selector option[value="en"]
+{
+  display: block;
+} */
+

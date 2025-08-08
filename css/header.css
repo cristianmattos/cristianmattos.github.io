@@ -23,6 +23,61 @@
   display: block;
 }
 
+/* idiomas bandeiras */
+
+
+    /* Estilos para o seletor de idiomas */
+    .language-selector {
+      position: relative;
+      /* top: -4px;  */
+      /* background: rgba(255, 255, 255, 0.9); */
+      backdrop-filter: blur(10px);
+      border-radius: 8px;
+      padding: 8px;
+      /* box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); */
+      /* width: 0; */
+    }
+
+    #language-selector {
+      width: 60px;
+    }
+
+    .language-selector select {
+      background: transparent;
+      border: none;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      padding: 4px 8px;
+      border-radius: 4px;
+    }
+
+    .language-selector select:focus {
+      outline: 2px solid #007bff;
+    }
+
+    .language-selector option {
+      width: auto;
+      background: white;
+      color: black;
+    }
+
+    /* Indicador de carregamento */
+    .loading-indicator {
+      position: relative;
+      /* top: 50%;
+      left: 50%; */
+      transform: translate(-50%, -50%);
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      /* padding: 20px; */
+      border-radius: 8px;
+      display: none;
+      /* z-index: 2000; */
+    }
+ 
+
+
 @media (max-width: 800px) {
   .header {
     flex-direction: column;

@@ -1,0 +1,25 @@
+
+html[lang="he"] body #experiencia-title{
+  width: 300px;
+
+}
+
+html[lang="he"] body .formacao h2{
+
+  width: 140px;
+} 
+
+
+@media (max-width: 800px){
+
+html[lang="he"] body .formacao h2{
+  width: 156px;
+} 
+
+html[lang="he"] body .empresa-texto {
+  width: 200px;
+
+}
+ 
+}
+

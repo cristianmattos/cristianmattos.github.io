@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Erfarenhet",
+    "education": "Utbildning",
+    "contact": "Kontakt"
+  },
+  "intro": {
+    "title": "Frontend Utvecklare & UX/UI Designer",
+    "location": "Baserad i São Paulo, Brasilien 📍"
+  },
+  "experience": {
+    "sectionTitle": "Erfarenhet",
+    "text": "Jag utvecklar små projekt som Fantastiska Djur med endast <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> och externa <strong>API:er</strong>. För webbapplikationer som Bikcraft arbetade jag med projektets <strong>UX</strong> och <strong>UI Design</strong>. Jag använder också <strong>Google Tag Manager</strong> för att hantera spårningstaggar som <strong>Google Analytics</strong>, vilket underlättar övervakning av trafik och webbplatsinteraktioner.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Teknologier",
+        "description": "Högprecisions och kvalitets elcyklar, skräddarsydda för kunden. Utforska världen i din egen takt med Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Fantastiska Djur",
+        "technologies": "Teknologier",
+        "description": "Rävar är däggdjur och allätare som tillhör familjen Canidae. De är medelstora vulpiner.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Kub",
+        "technologies": "Teknologier",
+        "description": "Var kreativ, utveckla motoriska färdigheter, fokus, tålamod och hjälp din hjärna förbättra sina kognitiva förmågor. Köp din Rubiks kub nu.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Utbildning",
+    "text": "Min senaste akademiska erfarenhet var som <strong>Tekniker</strong> inom <strong>Systemutveckling</strong> 🎓, där jag utmärkte mig som <strong>bästa mobila utvecklaranalytiker</strong>. Dessutom håller jag mig alltid uppdaterad med intensiva onlinekurser.",
+    "schools": [
+      {
+        "type": "teknisk",
+        "course": "Systemutveckling",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "utmärkelse titel 🏆",
+        "course": "Bästa Mobila Utvecklaranalytiker",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certifieringar",
+        "course": "Front End & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Intensivkurser",
+      "courses": [
+        "UX Design & UI Design <span>34h</span>",
+        "Front End för Nybörjare <span>46h</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Jag är för närvarande tillgänglig för nya projekt. Kontakta mig så kan vi ha en konversation 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

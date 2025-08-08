@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Ervaring",
+    "education": "Opleiding",
+    "contact": "Contact"
+  },
+  "intro": {
+    "title": "Frontend Ontwikkelaar & UX/UI Designer",
+    "location": "Gevestigd in São Paulo, Brazilië 📍"
+  },
+  "experience": {
+    "sectionTitle": "Ervaring",
+    "text": "Ik ontwikkel kleine projecten zoals Fantastische Dieren met alleen <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> en externe <strong>API's</strong>. Voor webapplicaties zoals Bikcraft werkte ik aan het <strong>UX</strong> en <strong>UI Design</strong> van het project. Ik gebruik ook <strong>Google Tag Manager</strong> om tracking tags zoals <strong>Google Analytics</strong> te beheren, wat het monitoren van verkeer en site-interacties vergemakkelijkt.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Technologieën",
+        "description": "Hoogprecieze en kwaliteitsvolle elektrische fietsen, op maat gemaakt voor de klant. Verken de wereld op jouw tempo met Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Fantastische Dieren",
+        "technologies": "Technologieën",
+        "description": "Vossen zijn zoogdieren en omnivoren die behoren tot de familie Canidae. Het zijn middelgrote vulpinen.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Kubus",
+        "technologies": "Technologieën",
+        "description": "Wees creatief, ontwikkel motorische vaardigheden, focus, geduld en help je hersenen hun cognitieve vaardigheden te verbeteren. Koop nu jouw Rubik's kubus.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Opleiding",
+    "text": "Mijn meest recente academische ervaring was als <strong>Technicus</strong> in <strong>Systeemontwikkeling</strong> 🎓, waarbij ik uitblonk als <strong>beste mobiele ontwikkelaar analist</strong>. Daarnaast houd ik mezelf altijd up-to-date met intensieve online cursussen.",
+    "schools": [
+      {
+        "type": "technisch",
+        "course": "Systeemontwikkeling",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "onderscheidingstitel 🏆",
+        "course": "Beste Mobiele Ontwikkelaar Analist",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certificeringen",
+        "course": "Front End & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Intensieve Cursussen",
+      "courses": [
+        "UX Design & UI Design <span>34u</span>",
+        "Front End voor Beginners <span>46u</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Ik ben momenteel beschikbaar voor nieuwe projecten. Neem contact met me op en laten we een gesprek voeren 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

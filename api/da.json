@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Erfaring",
+    "education": "Uddannelse",
+    "contact": "Kontakt"
+  },
+  "intro": {
+    "title": "Frontend Udvikler & UX/UI Designer",
+    "location": "Baseret i São Paulo, Brasilien 📍"
+  },
+  "experience": {
+    "sectionTitle": "Erfaring",
+    "text": "Jeg udvikler små projekter som Fantastiske Dyr ved kun at bruge <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> og eksterne <strong>API'er</strong>. For webapplikationer som Bikcraft arbejdede jeg på projektets <strong>UX</strong> og <strong>UI Design</strong>. Jeg bruger også <strong>Google Tag Manager</strong> til at administrere sporingstags som <strong>Google Analytics</strong>, hvilket letter overvågning af trafik og webstedsinteraktioner.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Teknologier",
+        "description": "Høj præcision og kvalitets elcykler, skræddersyet til kunden. Udforsk verden i dit eget tempo med Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Fantastiske Dyr",
+        "technologies": "Teknologier",
+        "description": "Ræve er pattedyr og altædende dyr, der tilhører familien Canidae. De er mellemstore vulpiner.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Kube",
+        "technologies": "Teknologier",
+        "description": "Vær kreativ, udvikl motoriske færdigheder, fokus, tålmodighed og hjælp din hjerne med at forbedre sine kognitive evner. Køb din Rubiks kube nu.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Uddannelse",
+    "text": "Min seneste akademiske erfaring var som <strong>Tekniker</strong> i <strong>Systemudvikling</strong> 🎓, hvor jeg udmærkede mig som <strong>bedste mobile udvikleranalytiker</strong>. Derudover holder jeg mig altid opdateret med intensive onlinekurser.",
+    "schools": [
+      {
+        "type": "teknisk",
+        "course": "Systemudvikling",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "udmærkelse titel 🏆",
+        "course": "Bedste Mobile Udvikleranalytiker",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certificeringer",
+        "course": "Front End & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Intensive Kurser",
+      "courses": [
+        "UX Design & UI Design <span>34t</span>",
+        "Front End for Begyndere <span>46t</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Jeg er i øjeblikket tilgængelig for nye projekter. Kontakt mig, og lad os tage en samtale 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

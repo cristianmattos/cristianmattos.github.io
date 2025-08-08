@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "经验",
+    "education": "教育背景",
+    "contact": "联系方式"
+  },
+  "intro": {
+    "title": "前端开发者 & UX/UI 设计师",
+    "location": "居住在巴西圣保罗 📍"
+  },
+  "experience": {
+    "sectionTitle": "经验",
+    "text": "我仅使用<strong>HTML</strong>、<strong>CSS</strong>、<strong>JavaScript</strong>和外部<strong>API</strong>开发小型项目，如神奇动物。对于像Bikcraft这样的网络应用程序，我负责项目的<strong>UX</strong>和<strong>UI设计</strong>工作。我还使用<strong>Google Tag Manager</strong>来管理<strong>Google Analytics</strong>等跟踪标签，便于监控流量和网站交互。",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "技术",
+        "description": "为客户量身定制的高精度、高品质电动自行车。与Bikcraft一起以自己的节奏探索世界。",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "神奇动物",
+        "technologies": "技术",
+        "description": "狐狸是属于犬科的哺乳动物和杂食动物。它们是中等大小的犬科动物。",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "魔方",
+        "technologies": "技术",
+        "description": "发挥创造力，培养运动技能、专注力、耐心，并帮助大脑提高认知能力。现在就购买您的魔方吧。",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "教育背景",
+    "text": "我最近的学术经历是<strong>系统开发</strong><strong>技术</strong>专业的学习🎓，并被评为<strong>最佳移动开发分析师</strong>。此外，我通过在线密集课程不断更新知识。",
+    "schools": [
+      {
+        "type": "技术专业",
+        "course": "系统开发",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "荣誉称号 🏆",
+        "course": "最佳移动开发分析师",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "认证",
+        "course": "前端 & UX/UI 设计",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "密集课程",
+      "courses": [
+        "UX设计 & UI设计 <span>34小时</span>",
+        "初学者前端 <span>46小时</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "我目前可以接受新项目。请联系我，让我们安排一次对话 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

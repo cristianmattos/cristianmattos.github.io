@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "experience": "経験",
+    "education": "学歴",
+    "contact": "連絡"
+  },
+  "intro": {
+    "title": "フロントエンド開発者 & UX/UIデザイナー",
+    "location": "サンパウロ市中心部在住 📍"
+  },
+  "experience": {
+    "sectionTitle": "経験",
+    "text": "「魔法動物」などの小規模プロジェクトを<strong>HTML</strong>、<strong>CSS</strong>、<strong>JavaScript</strong>、外部<strong>API</strong>だけで開発しました。Bikcraftなどのウェブアプリでは<strong>UX</strong>と<strong>UI デザイン</strong>を担当しました。Google Analyticsやその他トラッキングツールを管理するためにGoogle Tag Managerも利用しています。",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "技術",
+        "description": "高精度と高質な電動バイクをお客様の要望に合わせて製作。自分のペースで世界を探索しましょう。",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "魔法動物",
+        "technologies": "技術",
+        "description": "キツネは中型のホニファーで肉食も植物も食べるザイルの動物です。",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "キューブ",
+        "technologies": "技術",
+        "description": "創造力を高め、級務能力や心の広さを養い、脳の計算能力を向上させましょう。キューブを購入しましょう。",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "学歴",
+    "text": "最新の学術経験は<strong>システム開発</strong>の<strong>技術者</strong>として、<strong>モバイル開発者として最優秀</strong>の評価を受けました🎓。それに加え、オンラインで集中コースを続けています。",
+    "schools": [
+      {
+        "type": "技術",
+        "course": "システム開発",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "優秀評価 🏆",
+        "course": "最優秀モバイル開発者",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "認定証明書",
+        "course": "Front End & UX/UI デザイン",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "集中コース",
+      "courses": [
+        "UX & UI デザイン <span>34h</span>",
+        "初心者のためのFront End <span>46h</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "現在、新しいプロジェクトを承っています。ご連絡頂ければ、お話しましょう👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}
+

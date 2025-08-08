@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Esperienza",
+    "education": "Formazione",
+    "contact": "Contatto"
+  },
+  "intro": {
+    "title": "Sviluppatore Front End & UX/UI Designer",
+    "location": "Con sede a San Paolo, Brasile 📍"
+  },
+  "experience": {
+    "sectionTitle": "Esperienza",
+    "text": "Sviluppo piccoli progetti come Animali Fantastici utilizzando solo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>API</strong> esterne. Per applicazioni web come Bikcraft, ho lavorato al <strong>UX</strong> e <strong>UI Design</strong> del progetto. Utilizzo anche <strong>Google Tag Manager</strong> per gestire i tag di tracciamento come <strong>Google Analytics</strong>, facilitando il monitoraggio del traffico e delle interazioni del sito.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Tecnologie",
+        "description": "Biciclette elettriche di alta precisione e qualità, realizzate su misura per il cliente. Esplora il mondo al tuo ritmo con Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Animali Fantastici",
+        "technologies": "Tecnologie",
+        "description": "Le volpi sono mammiferi onnivori appartenenti alla famiglia dei Canidae. Sono canidi di medie dimensioni.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Cubo",
+        "technologies": "Tecnologie",
+        "description": "Sii creativo, sviluppa le abilità motorie, la concentrazione, la pazienza e aiuta il tuo cervello a migliorare le sue capacità cognitive acquistando il tuo cubo magico.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Formazione",
+    "text": "La mia più recente esperienza accademica è stata come <strong>Tecnico</strong> in <strong>Sviluppo di Sistemi</strong> 🎓, distinguendomi come <strong>miglior analista sviluppatore mobile</strong>. Inoltre, mi mantengo aggiornato attraverso corsi intensivi online.",
+    "schools": [
+      {
+        "type": "tecnico",
+        "course": "Sviluppo di Sistemi",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "titolo di eccellenza 🏆",
+        "course": "Miglior analista sviluppatore mobile",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certificazioni",
+        "course": "Front End & UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Corsi Intensivi",
+      "courses": [
+        "UX Design & UI Design <span>34h</span>",
+        "Front End per Principianti <span>46h</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Sono attualmente disponibile per nuovi progetti. Contattami e organizziamo una conversazione 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

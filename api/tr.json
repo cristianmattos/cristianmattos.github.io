@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Deneyim",
+    "education": "Eğitim",
+    "contact": "İletişim"
+  },
+  "intro": {
+    "title": "Frontend Geliştirici ve UX/UI Tasarımcısı",
+    "location": "São Paulo, Brezilya'da bulunuyor 📍"
+  },
+  "experience": {
+    "sectionTitle": "Deneyim",
+    "text": "Fantastik Hayvanlar gibi küçük projeler geliştiriyorum, sadece <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> ve harici <strong>API'lar</strong> kullanarak. Bikcraft gibi web uygulamaları için projenin <strong>UX</strong> ve <strong>UI Tasarımı</strong> üzerinde çalıştım. Ayrıca <strong>Google Analytics</strong> gibi izleme etiketlerini yönetmek için <strong>Google Tag Manager</strong> kullanıyorum, bu da trafik ve site etkileşimlerinin izlenmesini kolaylaştırıyor.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Teknolojiler",
+        "description": "Yüksek hassasiyetli ve kaliteli elektrikli bisikletler, müşteri için özel yapım. Bikcraft ile kendi hızınızda dünyayı keşfedin.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Fantastik Hayvanlar",
+        "technologies": "Teknolojiler",
+        "description": "Tilkiler, Canidae ailesine ait memeli ve omnivor hayvanlardır. Orta büyüklükte vulpinlerdir.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Küp",
+        "technologies": "Teknolojiler",
+        "description": "Yaratıcı olun, motor beceriler geliştirin, odaklanın, sabır gösterin ve beyninizin bilişsel yeteneklerini geliştirmesine yardım edin. Şimdi Rubik küpünüzü satın alın.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Eğitim",
+    "text": "En son akademik deneyimim <strong>Sistem Geliştirme</strong> alanında <strong>Teknisyen</strong> olarak geçti 🎓, <strong>en iyi mobil geliştirici analisti</strong> olarak öne çıktım. Ayrıca, yoğun çevrimiçi kurslarla kendimi her zaman güncel tutuyorum.",
+    "schools": [
+      {
+        "type": "teknik",
+        "course": "Sistem Geliştirme",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "başarı unvanı 🏆",
+        "course": "En İyi Mobil Geliştirici Analisti",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Sertifikalar",
+        "course": "Frontend ve UX/UI Tasarım",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Yoğun Kurslar",
+      "courses": [
+        "UX Tasarım ve UI Tasarım <span>34sa</span>",
+        "Yeni Başlayanlar İçin Frontend <span>46sa</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Şu anda yeni projeler için müsaitim. Benimle iletişime geçin ve bir sohbet edelim 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

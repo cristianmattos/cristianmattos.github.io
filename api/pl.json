@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "experience": "Doświadczenie",
+    "education": "Wykształcenie",
+    "contact": "Kontakt"
+  },
+  "intro": {
+    "title": "Frontend Developer i UX/UI Designer",
+    "location": "Mieszka w São Paulo, Brazylia 📍"
+  },
+  "experience": {
+    "sectionTitle": "Doświadczenie",
+    "text": "Tworzę małe projekty takie jak Fantastyczne Zwierzęta, używając tylko <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> i zewnętrznych <strong>API</strong>. W przypadku aplikacji internetowych takich jak Bikcraft pracowałem nad <strong>UX</strong> i <strong>UI Design</strong> projektu. Używam również <strong>Google Tag Manager</strong> do zarządzania tagami śledzącymi takimi jak <strong>Google Analytics</strong>, co ułatwia monitorowanie ruchu i interakcji na stronie.",
+    "projects": [
+      {
+        "year": "2023",
+        "name": "Bikcraft",
+        "technologies": "Technologie",
+        "description": "Wysokiej precyzji i jakości rowery elektryczne, wykonane na zamówienie dla klienta. Odkrywaj świat we własnym tempie z Bikcraft.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2023",
+        "name": "Fantastyczne Zwierzęta",
+        "technologies": "Technologie",
+        "description": "Lisy to ssaki i zwierzęta wszystkożerne należące do rodziny Canidae. To średniej wielkości vulpiny.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+      },
+      {
+        "year": "2024",
+        "name": "Kostka",
+        "technologies": "Technologie",
+        "description": "Bądź kreatywny, rozwijaj umiejętności motoryczne, skupienie, cierpliwość i pomóż swojemu mózgowi poprawić zdolności poznawcze. Kup teraz swoją kostkę Rubika.",
+        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+      }
+    ]
+  },
+  "education": {
+    "sectionTitle": "Wykształcenie",
+    "text": "Moje najnowsze doświadczenie akademickie to <strong>Technik</strong> w dziedzinie <strong>Rozwoju Systemów</strong> 🎓, gdzie wyróżniłem się jako <strong>najlepszy analityk programista mobilny</strong>. Ponadto zawsze utrzymuję się na bieżąco dzięki intensywnym kursom online.",
+    "schools": [
+      {
+        "type": "techniczne",
+        "course": "Rozwój Systemów",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "tytuł wyróżnienia 🏆",
+        "course": "Najlepszy Analityk Programista Mobilny",
+        "institution": "ETEC Basilides de Godoy"
+      },
+      {
+        "type": "Certyfikaty",
+        "course": "Frontend i UX/UI Design",
+        "institution": "ORIGAMID"
+      }
+    ],
+    "extra": {
+      "intensiveCoursesTitle": "Kursy Intensywne",
+      "courses": [
+        "UX Design i UI Design <span>34g</span>",
+        "Frontend dla Początkujących <span>46g</span>"
+      ]
+    }
+  },
+  "footer": {
+    "text": "Jestem obecnie dostępny na nowe projekty. Skontaktuj się ze mną, a porozmawiajmy 👋",
+    "email": "cristiaguedes1402@gmail.com",
+    "phone": "+55 11 93055-3294",
+    "copy": "devcris."
+  }
+}

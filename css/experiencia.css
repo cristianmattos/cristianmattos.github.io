@@ -79,10 +79,12 @@ z-index: -1;
   font-weight: bold;
 }
 
-.empresa-texto, .empresa-texto-en {
+.empresa-texto {
   font-size: 0.875rem;
   line-height: 1.4;
   color: #525252;
+  width: 300px;
+
 }
 
  
