@@ -34,7 +34,7 @@
       'ur': { nome: 'اردو', bandeira: '🇵🇰', dir: 'rtl', lang: 'ur', fallback: 'en' }
     };
 
-    let idiomaAtual = 'pt';
+    let idiomaAtual = '';
     let traducaoCache = {};
 
     // Função para detectar o idioma do navegador
@@ -264,6 +264,7 @@
       atualizarDirecaoHTML(idiomaAtual);
 
       console.log('Traduções aplicadas com sucesso!');
+        document.body.classList.add('translated');
     }
 
     // Função para trocar idioma
@@ -311,8 +312,9 @@
     async function inicializar() {
       try {
         // Verifica se há idioma salvo
-        const idiomaSalvo = localStorage.getItem('idioma-preferido');
-        const idioma = idiomaSalvo || detectarIdioma();
+        // const idiomaSalvo = localStorage.getItem('idioma-preferido');
+        // const idioma = idiomaSalvo || detectarIdioma();
+const idioma = window.initialLang || detectarIdioma();
 
         console.log('Inicializando com idioma:', idioma);
 

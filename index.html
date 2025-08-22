@@ -4,6 +4,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+  (function() {
+    // Detecta idioma preferido
+    const saved = localStorage.getItem('idioma-preferido');
+    const browser = (navigator.language || navigator.userLanguage).split('-')[0];
+    const supported = ['pt', 'en', 'es', 'fr', 'de', 'it', 'ja', 'ko', 'zh', 'ru', 'nl', 'sv', 'pl', 'fi', 'no', 'da', 'hu', 'cs', 'sk', 'vi', 'id', 'ms', 'tr', 'el', 'ro', 'hi', 'ar', 'he', 'fa', 'ur'];
+    
+    const preferredLang = saved || (supported.includes(browser) ? browser : 'pt');
+    
+    // Define idioma no HTML imediatamente
+    document.documentElement.setAttribute('lang', preferredLang);
+    
+    // Salva para o script principal usar
+    window.initialLang = preferredLang;
+  })();
+  </script>
   <title>devcris</title>
   <meta name="description" content="Desenvolvedor Front End & UX/UI Designer Localizado em São Paulo ">
   <link rel="stylesheet" href="css/style.css">

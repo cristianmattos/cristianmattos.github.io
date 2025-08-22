@@ -1,0 +1,10 @@
+  body { 
+    opacity: 0; 
+    visibility: hidden; 
+  }
+  
+  body.translated { 
+    opacity: 1; 
+    visibility: visible; 
+    transition: opacity 0.3s;
+  }
