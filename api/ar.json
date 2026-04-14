@@ -31,13 +31,20 @@
         "name": "المكعب",
         "technologies": "التقنيات",
         "description": "كن مبدعًا، طور مهاراتك الحركية، التركيز، الصبر وساعد عقلك على تحسين قدراته الإدراكية. اشترِ مكعبك السحري.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "تصميم UX", "مدير العلامات من جوجل (Google Tag Manager)"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "تصميم UX",
+          "مدير العلامات من جوجل (Google Tag Manager)"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "التعليم",
-    "text": "كانت أحدث خبرة أكاديمية لي كـ <strong>فني</strong> في <strong>تطوير الأنظمة</strong> 🎓 مع تميز كـ <strong>أفضل محلل ومطور تطبيقات الجوال</strong>. بالإضافة إلى ذلك، أبقى محدثًا دائمًا من خلال الدورات المكثفة عبر الإنترنت.",
+    "text": "طالب في تخصص <strong>هندسة البرمجيات</strong> (Unimar) مع مؤهل تقني في <strong>تطوير الأنظمة</strong> من Etec Professor Basilides de Godoy. أبحث عن أول فرصة لي في مجال التكنولوجيا، مع التركيز على <strong>تطوير الواجهة الخلفية.</strong>",
     "schools": [
       {
         "type": "فني",

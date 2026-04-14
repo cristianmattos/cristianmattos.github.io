@@ -24,20 +24,34 @@
         "name": "Fantastiska Djur",
         "technologies": "Teknologier",
         "description": "Rävar är däggdjur och allätare som tillhör familjen Canidae. De är medelstora vulpiner.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Kub",
         "technologies": "Teknologier",
         "description": "Var kreativ, utveckla motoriska färdigheter, fokus, tålamod och hjälp din hjärna förbättra sina kognitiva förmågor. Köp din Rubiks kub nu.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Utbildning",
-    "text": "Min senaste akademiska erfarenhet var som <strong>Tekniker</strong> inom <strong>Systemutveckling</strong> 🎓, där jag utmärkte mig som <strong>bästa mobila utvecklaranalytiker</strong>. Dessutom håller jag mig alltid uppdaterad med intensiva onlinekurser.",
+    "text": "Student i <strong>Mjukvaruteknik</strong> (Unimar) med teknisk utbildning i <strong>Systemutveckling</strong> vid Etec Professor Basilides de Godoy. Jag söker min första möjlighet inom teknikbranschen med fokus på <strong>backendutveckling.</strong>",
     "schools": [
       {
         "type": "teknisk",

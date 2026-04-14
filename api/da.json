@@ -24,20 +24,34 @@
         "name": "Fantastiske Dyr",
         "technologies": "Teknologier",
         "description": "Ræve er pattedyr og altædende dyr, der tilhører familien Canidae. De er mellemstore vulpiner.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Kube",
         "technologies": "Teknologier",
         "description": "Vær kreativ, udvikl motoriske færdigheder, fokus, tålmodighed og hjælp din hjerne med at forbedre sine kognitive evner. Køb din Rubiks kube nu.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Uddannelse",
-    "text": "Min seneste akademiske erfaring var som <strong>Tekniker</strong> i <strong>Systemudvikling</strong> 🎓, hvor jeg udmærkede mig som <strong>bedste mobile udvikleranalytiker</strong>. Derudover holder jeg mig altid opdateret med intensive onlinekurser.",
+    "text": "Studerende i <strong>Softwareingeniørfag</strong> (Unimar) med teknisk uddannelse i <strong>Systemudvikling</strong> på Etec Professor Basilides de Godoy. Jeg søger min første mulighed inden for teknologibranchen med fokus på <strong>backend-udvikling.</strong>",
     "schools": [
       {
         "type": "teknisk",

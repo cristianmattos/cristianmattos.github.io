@@ -24,20 +24,34 @@
         "name": "Фантастические животные",
         "technologies": "Технологии",
         "description": "Лисы — это всеядные млекопитающие, принадлежащие к семейству Canidae. Они относятся к средним по размеру псовым.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Кубик Рубика",
         "technologies": "Технологии",
         "description": "Будьте креативными, развивайте моторику, концентрацию, терпение и помогайте своему мозгу улучшать когнитивные способности с помощью кубика Рубика.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Образование",
-    "text": "Мой последний академический опыт — это <strong>техническое</strong> образование по специальности <strong>Разработка систем</strong> 🎓 с отличием в качестве <strong>лучшего аналитика-разработчика мобильных приложений</strong>. Кроме того, я всегда остаюсь в курсе событий благодаря интенсивным онлайн-курсам.",
+    "text": "Студент по специальности <strong>Разработка программного обеспечения</strong> (Unimar) с техническим образованием в области <strong>Разработки систем</strong> в Etec Professor Basilides de Godoy. Ищу первую возможность в сфере технологий с акцентом на <strong>бэкенд-разработку.</strong>",
     "schools": [
       {
         "type": "техническое",

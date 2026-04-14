@@ -24,20 +24,34 @@
         "name": "Fantastik Hayvanlar",
         "technologies": "Teknolojiler",
         "description": "Tilkiler, Canidae ailesine ait memeli ve omnivor hayvanlardır. Orta büyüklükte vulpinlerdir.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Küp",
         "technologies": "Teknolojiler",
         "description": "Yaratıcı olun, motor beceriler geliştirin, odaklanın, sabır gösterin ve beyninizin bilişsel yeteneklerini geliştirmesine yardım edin. Şimdi Rubik küpünüzü satın alın.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Eğitim",
-    "text": "En son akademik deneyimim <strong>Sistem Geliştirme</strong> alanında <strong>Teknisyen</strong> olarak geçti 🎓, <strong>en iyi mobil geliştirici analisti</strong> olarak öne çıktım. Ayrıca, yoğun çevrimiçi kurslarla kendimi her zaman güncel tutuyorum.",
+    "text": "<strong>Unimar</strong>'da <strong>Yazılım Mühendisliği</strong> öğrencisiyim ve Etec Professor Basilides de Godoy'da <strong>Sistem Geliştirme</strong> alanında teknik eğitim aldım. Teknoloji alanında ilk fırsatımı arıyorum ve odak noktam <strong>backend geliştirme.</strong>",
     "schools": [
       {
         "type": "teknik",

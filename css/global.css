@@ -43,21 +43,43 @@ img {
   }
 }
 
-
 @property --gradient-angle {
   syntax: "<angle>";
   initial-value: 132deg;
   inherits: false;
 }
 
-
 @keyframes rotation {
   0% {
     --gradient-angle: 0deg;
   }
   100% {
-    --gradient-angle : 360deg;
+    --gradient-angle: 360deg;
   }
 }
 
+.contatos-github {
+  display: flex;
+  /* Ativa o flexbox */
+  gap: 8px;
+  /* Ajusta o espaçamento entre os botões */
+  flex-wrap: wrap;
+  /* Garante que quebre a linha no celular */
+}
 
+.contatos-github a {
+  transition: transform 0.2s;
+  /* Suaviza o efeito do zoom */
+  display: inline-block;
+  /* Necessário para o transform funcionar */
+}
+
+.contatos-github a:hover {
+  transform: scale(1.1);
+  /* O efeito de zoom que você pediu */
+}
+
+/* h3.contatos-github {
+  color: #ffff;
+  margin-bottom: 10px;
+} */

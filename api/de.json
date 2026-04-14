@@ -24,20 +24,34 @@
         "name": "Fantastische Tiere",
         "technologies": "Technologien",
         "description": "Füchse sind Säugetiere und Allesfresser der Familie Canidae. Sie sind mittelgroße Vulpiden.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Würfel",
         "technologies": "Technologien",
         "description": "Sei kreativ, entwickle motorische Fähigkeiten, Konzentration, Geduld und verbessere deine kognitiven Fähigkeiten. Hol dir deinen Zauberwürfel.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Ausbildung",
-    "text": "Meine jüngste akademische Erfahrung war als <strong>Techniker</strong> für <strong>Systementwicklung</strong> 🎓 mit Auszeichnung als <strong>bester Mobile-Entwickler</strong>. Ich bleibe immer auf dem Laufenden mit intensiven Online-Kursen.",
+    "text": "Student der <strong>Software-Ingenieurwissenschaften</strong> (Unimar) mit technischer Ausbildung in <strong>Systementwicklung</strong> an der Etec Professor Basilides de Godoy. Ich suche meine erste Möglichkeit im Technologiebereich mit Schwerpunkt auf <strong>Backend-Entwicklung.</strong>",
     "schools": [
       {
         "type": "Techniker",

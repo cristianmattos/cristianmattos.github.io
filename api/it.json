@@ -24,20 +24,34 @@
         "name": "Animali Fantastici",
         "technologies": "Tecnologie",
         "description": "Le volpi sono mammiferi onnivori appartenenti alla famiglia dei Canidae. Sono canidi di medie dimensioni.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Cubo",
         "technologies": "Tecnologie",
         "description": "Sii creativo, sviluppa le abilità motorie, la concentrazione, la pazienza e aiuta il tuo cervello a migliorare le sue capacità cognitive acquistando il tuo cubo magico.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Formazione",
-    "text": "La mia più recente esperienza accademica è stata come <strong>Tecnico</strong> in <strong>Sviluppo di Sistemi</strong> 🎓, distinguendomi come <strong>miglior analista sviluppatore mobile</strong>. Inoltre, mi mantengo aggiornato attraverso corsi intensivi online.",
+    "text": "Studente di <strong>Ingegneria del Software</strong> (Unimar) con formazione tecnica in <strong>Sviluppo di Sistemi</strong> presso Etec Professor Basilides de Godoy. Cerco la mia prima opportunità nel settore tecnologico, con focus sullo <strong>sviluppo backend.</strong>",
     "schools": [
       {
         "type": "tecnico",

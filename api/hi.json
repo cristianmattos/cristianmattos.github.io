@@ -24,20 +24,34 @@
         "name": "फैंटास्टिक एनिमल्स",
         "technologies": "तकनीकें",
         "description": "लोमड़ी स्तनधारी और सर्वाहारी जानवर हैं जो कैनिडे परिवार से संबंधित हैं। ये मध्यम आकार के वुल्पाइन हैं।",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "क्यूब",
         "technologies": "तकनीकें",
         "description": "रचनात्मक बनें, मोटर स्किल्स विकसित करें, फोकस, धैर्य और अपने मस्तिष्क को उसकी संज्ञानात्मक क्षमताओं को बेहतर बनाने में मदद करें। अभी अपना रूबिक्स क्यूब खरीदें।",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "शिक्षा",
-    "text": "मेरा सबसे हालिया शैक्षणिक अनुभव <strong>सिस्टम डेवलपमेंट</strong> में <strong>तकनीशियन</strong> के रूप में था 🎓, जहां मैंने <strong>सर्वश्रेष्ठ मोबाइल डेवलपर विश्लेषक</strong> के रूप में खुद को अलग किया। इसके अलावा, मैं गहन ऑनलाइन पाठ्यक्रमों के साथ हमेशा अपडेटेड रहता हूं।",
+    "text": "<strong>Unimar</strong> में <strong>सॉफ्टवेयर इंजीनियरिंग</strong> का छात्र हूं, और Etec Professor Basilides de Godoy से <strong>सिस्टम डेवलपमेंट</strong> में तकनीकी डिग्री प्राप्त की है। मैं प्रौद्योगिकी क्षेत्र में अपना पहला अवसर खोज रहा हूं, जिसमें <strong>बैकएंड डेवलपमेंट</strong> पर ध्यान केंद्रित है।",
     "schools": [
       {
         "type": "तकनीकी",

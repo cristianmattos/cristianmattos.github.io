@@ -8,31 +8,34 @@
   align-items: center;
 }
 
-.introducao h1{
+.introducao h1 {
   font-size: 4.5rem;
   line-height: 1.125;
   margin-bottom: 30px;
   position: relative;
 }
 
-.introducao h1::before{ 
- content: "";
- display: inline-block;
- /* width: 540px; */
- width: 600px;
- height: 245px; 
- /* background: url("../img/detalhe.svg") no-repeat center; */
-  background: linear-gradient(var(--gradient-angle), rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
- position: absolute; 
- /* top: -15px;
+.introducao h1::before {
+  content: "";
+  display: inline-block;
+  /* width: 540px; */
+  width: 600px;
+  height: 245px;
+  /* background: url("../img/detalhe.svg") no-repeat center; */
+  background: linear-gradient(
+    var(--gradient-angle),
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+  position: absolute;
+  /* top: -15px;
  left: -40px; */
- z-index: -1;
- filter: blur(5rem);
- animation: rotation 8s linear infinite;
-
+  z-index: -1;
+  filter: blur(5rem);
+  animation: rotation 8s linear infinite;
 }
 
-.introducao p{
+.introducao p {
   font-size: 1.5rem;
   color: #525252;
   position: relative;
@@ -51,72 +54,52 @@
 
 } */
 
-@media (max-width: 1000px){
+@media (max-width: 1000px) {
+  .introducao h1 {
+    font-size: 3rem;
+  }
 
-.introducao h1{
-  font-size: 3rem;
+  .introducao h1::before {
+    width: 440px;
+  }
 }
 
-.introducao h1::before{
+@media (max-width: 800px) {
+  .introducao {
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
 
-width: 440px;
+  .introducao h1 {
+    font-size: 2rem;
+  }
+
+  .introducao h1::before {
+    /* width: 330px; */
+    width: 285px;
+    /* height: 0px; */
+    /* left: 60px */
+    /* left: 40px */
+    /* filter: blur(2rem); */
+    /* background:  black */
+  }
+
+  .introducao p {
+    width: 267px;
+  }
+
+  .introducao p::before {
+    top: -8px;
+    left: 15px;
+  }
 }
 
+@media (max-width: 400px) {
+  .introducao {
+    grid-template-columns: 1fr;
+  }
+
+  .introducao img {
+    display: none;
+  }
 }
-
-@media (max-width: 800px){
-
-
-.introducao{
-  grid-template-columns: 1fr 1fr;
-  gap: 40px;
-}
-
-.introducao h1{
-  font-size: 2rem;
-}
-
-.introducao h1::before{
-
-/* width: 330px; */
-width: 285px;
-/* height: 0px; */
-/* left: 60px */
-/* left: 40px */
- /* filter: blur(2rem); */
-/* background:  black */
-
-} 
-
-
-.introducao p{
-  width: 267px;
-}
-
-.introducao p::before{
- top: -8px;
- left: 15px;
-}
-
-
-
-}
-
-
-
-
-
-@media (max-width: 400px){
-
-.introducao{
-grid-template-columns: 1fr;
-
-}
-
-.introducao img{
-display: none;
-}
-
-
-}
-

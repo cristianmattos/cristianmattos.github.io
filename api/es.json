@@ -24,20 +24,34 @@
         "name": "Animales Fantásticos",
         "technologies": "Tecnologías",
         "description": "Los zorros son mamíferos omnívoros pertenecientes a la familia Canidae. Son cánidos de tamaño mediano.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Cubo",
         "technologies": "Tecnologías",
         "description": "Sé creativo, desarrolla habilidades motoras, concentración, paciencia y ayuda a tu cerebro a mejorar sus capacidades cognitivas comprando tu cubo mágico.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Formación",
-    "text": "Mi experiencia académica más reciente fue como <strong>Técnico</strong> en <strong>Desarrollo de Sistemas</strong> 🎓, destacándome como el <strong>mejor analista desarrollador móvil</strong>. Además, me mantengo actualizado a través de cursos intensivos en línea.",
+    "text": "Estudiante de <strong>Ingeniería de Software</strong> (Unimar) con formación técnica en <strong>Desarrollo de Sistemas</strong> por Etec Professor Basilides de Godoy. Busco mi primera oportunidad en el área de tecnología, con enfoque en <strong>desarrollo backend.</strong>",
     "schools": [
       {
         "type": "técnico",

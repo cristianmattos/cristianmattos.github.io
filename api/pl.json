@@ -24,20 +24,34 @@
         "name": "Fantastyczne Zwierzęta",
         "technologies": "Technologie",
         "description": "Lisy to ssaki i zwierzęta wszystkożerne należące do rodziny Canidae. To średniej wielkości vulpiny.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Kostka",
         "technologies": "Technologie",
         "description": "Bądź kreatywny, rozwijaj umiejętności motoryczne, skupienie, cierpliwość i pomóż swojemu mózgowi poprawić zdolności poznawcze. Kup teraz swoją kostkę Rubika.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Wykształcenie",
-    "text": "Moje najnowsze doświadczenie akademickie to <strong>Technik</strong> w dziedzinie <strong>Rozwoju Systemów</strong> 🎓, gdzie wyróżniłem się jako <strong>najlepszy analityk programista mobilny</strong>. Ponadto zawsze utrzymuję się na bieżąco dzięki intensywnym kursom online.",
+    "text": "Student <strong>Inżynierii Oprogramowania</strong> (Unimar) z wykształceniem technicznym w zakresie <strong>Tworzenia Systemów</strong> w Etec Professor Basilides de Godoy. Szukam pierwszej okazji w branży technologicznej, ze skupieniem na <strong>programowaniu backendowym.</strong>",
     "schools": [
       {
         "type": "techniczne",

@@ -24,20 +24,34 @@
         "name": "환상적인 동물들",
         "technologies": "기술",
         "description": "여우는 개과에 속하는 포유류이자 잡식동물입니다. 중간 크기의 개과 동물입니다.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "큐브",
         "technologies": "기술",
         "description": "창의적이 되고, 운동 능력, 집중력, 인내심을 기르며 뇌의 인지 능력 향상에 도움을 주는 마법의 큐브를 구입하세요.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "학력",
-    "text": "저의 가장 최근 학업 경험은 <strong>시스템 개발</strong> <strong>기술자</strong> 과정이었습니다 🎓. <strong>최우수 모바일 개발 분석가</strong>로 선정되는 우수한 성과를 거두었습니다. 또한 온라인 집중 과정을 통해 지속적으로 최신 지식을 습득하고 있습니다.",
+    "text": "<strong>Unimar</strong>에서 <strong>소프트웨어 공학</strong>을 전공하는 학생으로, Etec Professor Basilides de Godoy에서 <strong>시스템 개발</strong> 기술 자격증을 취득했습니다. <strong>백엔드 개발</strong>에 집중하여 기술 분야에서의 첫 번째 기회를 찾고 있습니다.",
     "schools": [
       {
         "type": "기술자 과정",

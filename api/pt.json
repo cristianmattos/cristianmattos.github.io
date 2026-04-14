@@ -24,20 +24,34 @@
         "name": "Animais Fantásticos",
         "technologies": "Tecnologias",
         "description": "As raposas são animais mamíferos e onívoros pertencentes à família Canidae. São vulpídeos de porte médio.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Cubo",
         "technologies": "Tecnologias",
         "description": "Seja criativo, desenvolva habilidades motoras, foco, paciência e ajude seu cérebro a melhorar suas habilidades cognitivas. Adquira seu cubo mágico agora.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Formação",
-    "text": "Minha mais recente experiência acadêmica foi como <strong>Técnico</strong> em <strong>Desenvolvimento de Sistemas</strong> 🎓 tendo destaque como <strong>melhor analista desenvolvedor mobile</strong>. Além disso, mantenho-me sempre atualizado com cursos intensivos online.",
+    "text": "Estudante de <strong>Engenharia de Software</strong> (Unimar) com formação técnica em <strong>Desenvolvimento de Sistemas</strong> pela Etec Professor Basilides de Godoy. Busco minha primeira oportunidade na área de tecnologia, com foco em <strong>desenvolvimento backend.</strong>",
     "schools": [
       {
         "type": "técnico",

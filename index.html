@@ -4,26 +4,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script>
-  (function() {
-    // Detecta idioma preferido
-    const saved = localStorage.getItem('idioma-preferido');
-    const browser = (navigator.language || navigator.userLanguage).split('-')[0];
-    const supported = ['pt', 'en', 'es', 'fr', 'de', 'it', 'ja', 'ko', 'zh', 'ru', 'nl', 'sv', 'pl', 'fi', 'no', 'da', 'hu', 'cs', 'sk', 'vi', 'id', 'ms', 'tr', 'el', 'ro', 'hi', 'ar', 'he', 'fa', 'ur'];
-    
-    const preferredLang = saved || (supported.includes(browser) ? browser : 'pt');
-    
-    // Define idioma no HTML imediatamente
-    document.documentElement.setAttribute('lang', preferredLang);
-    
-    // Salva para o script principal usar
-    window.initialLang = preferredLang;
-  })();
+  <script>
+    (function () {
+      // Detecta idioma preferido
+      const saved = localStorage.getItem('idioma-preferido');
+      const browser = (navigator.language || navigator.userLanguage).split('-')[0];
+      const supported = ['pt', 'en', 'es', 'fr', 'de', 'it', 'ja', 'ko', 'zh', 'ru', 'nl', 'sv', 'pl', 'fi', 'no', 'da', 'hu', 'cs', 'sk', 'vi', 'id', 'ms', 'tr', 'el', 'ro', 'hi', 'ar', 'he', 'fa', 'ur'];
+
+      const preferredLang = saved || (supported.includes(browser) ? browser : 'pt');
+
+      // Define idioma no HTML imediatamente
+      document.documentElement.setAttribute('lang', preferredLang);
+
+      // Salva para o script principal usar
+      window.initialLang = preferredLang;
+    })();
   </script>
   <title>devcris</title>
   <meta name="description" content="Desenvolvedor Front End & UX/UI Designer Localizado em São Paulo ">
-  <link rel="preload" href="css/style.min.css" as="style">
-  <link rel="stylesheet" href="css/style.min.css">
+  <link rel="preload" href="css/style.css" as="style">
+  <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -145,8 +145,7 @@
 
       <div>
         <p class="formacao-texto" id="education-text">
-          Minha mais recente experiência acadêmica foi como <strong>Técnico</strong> em <strong>Desenvolvimento de
-            Sistemas</strong> 🎓 tendo destaque como <strong>melhor analista Desenvolvedor mobile</strong>. Além disso, mantenho-me sempre atualizado com cursos intensivos online.
+          Estudante de <strong>Engenharia de Software</strong> (Unimar) com formação técnica em <strong>Desenvolvimento de Sistemas</strong> pela Etec Professor Basilides de Godoy. Busco minha primeira oportunidade na área de tecnologia, com foco em <strong>desenvolvimento backend.</strong>
         </p>
 
         <ul class="faculdade-lista">
@@ -187,13 +186,32 @@
     <div class="footer-container" id="contato">
       <p class="footer-texto" id="footer-text">Estou disponível para novos projetos no momento. Entre em contato comigo e marcamos uma conversa 👋</p>
       <ul class="footer-contato">
-        <li>cristiaguedes1402@gmail.com</li>
-        <li>+55 11 93055-3294</li>
+        <!-- <li>cristiaguedes1402@gmail.com</li>
+        <li>+55 11 93055-3294</li> -->
+        <!-- <h3 class="contatos-github">📫 Conecte-se comigo</h3> -->
+        <div class="contatos-github">
+          <a href="https://github.com/cristianmattos" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+          <a href="https://discord.gg/MENrW3tp7R" target="_blank">
+            <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+          </a>
+          <a href="mailto:cristianguedes1402@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+          </a>
+          <a href="https://www.linkedin.com/in/cristian-guedes-142167202/" target="_blank">
+            <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+          <a href="https://wa.me/5511930553294" target="_blank">
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+          </a>
+        </div>
       </ul>
       <p class="footer-copy">devcris.</p>
     </div>
   </footer>
-<script src="./script.js"></script>
+  <script src="./script.js"></script>
+
 </body>
 
 </html>

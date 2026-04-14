@@ -24,20 +24,34 @@
         "name": "חיות פלא",
         "technologies": "טכנולוגיות",
         "description": "שועלים הם יונקים ואוכלי כל ממשפחת הכלביים. הם זאבים בגודל בינוני.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "קובייה",
         "technologies": "טכנולוגיות",
         "description": "תהיה יצירתי, פתח יכולות מוטוריות, ריכוז, סבלנות ועזור למוח שלך לשפר את היכולות הקוגניטיביות שלו. קנה את הקובייה הקסומה שלך.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "השכלה",
-    "text": "הניסיון האקדמי האחרון שלי היה כ<strong>טכנאי</strong> ב<strong>פיתוח מערכות</strong> 🎓 עם הצטיינות כ<strong>הטכנאי הטוב ביותר לפיתוח מובייל</strong>. בנוסף, אני נשאר מעודכן תמיד עם קורסים אינטנסיביים מקוונים.",
+    "text": "סטודנט ל<strong>הנדסת תוכנה</strong> (Unimar) עם הכשרה טכנית ב<strong>פיתוח מערכות</strong> ב-Etec Professor Basilides de Godoy. אני מחפש את ההזדמנות הראשונה שלי בתחום הטכנולוגיה, עם דגש על <strong>פיתוח backend.</strong>",
     "schools": [
       {
         "type": "טכנאי",

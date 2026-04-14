@@ -24,20 +24,34 @@
         "name": "Fantastiske Dyr",
         "technologies": "Teknologier",
         "description": "Rever er pattedyr og alltetere som tilhører familien Canidae. De er mellomstore vulpiner.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Kube",
         "technologies": "Teknologier",
         "description": "Vær kreativ, utvikle motoriske ferdigheter, fokus, tålmodighet og hjelp hjernen din forbedre sine kognitive evner. Kjøp din Rubiks kube nå.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Utdanning",
-    "text": "Min nyeste akademiske erfaring var som <strong>Tekniker</strong> innen <strong>Systemutvikling</strong> 🎓, hvor jeg utmerket meg som <strong>beste mobile utvikleranalytiker</strong>. I tillegg holder jeg meg alltid oppdatert med intensive nettkurs.",
+    "text": "Student i <strong>Programvareutvikling</strong> (Unimar) med teknisk utdanning i <strong>Systemutvikling</strong> ved Etec Professor Basilides de Godoy. Jeg søker min første mulighet innen teknologibransjen med fokus på <strong>backend-utvikling.</strong>",
     "schools": [
       {
         "type": "teknisk",

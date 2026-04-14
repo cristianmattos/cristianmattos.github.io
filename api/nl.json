@@ -24,20 +24,34 @@
         "name": "Fantastische Dieren",
         "technologies": "Technologieën",
         "description": "Vossen zijn zoogdieren en omnivoren die behoren tot de familie Canidae. Het zijn middelgrote vulpinen.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "UI DESIGN"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "UI DESIGN"
+        ]
       },
       {
         "year": "2024",
         "name": "Kubus",
         "technologies": "Technologieën",
         "description": "Wees creatief, ontwikkel motorische vaardigheden, focus, geduld en help je hersenen hun cognitieve vaardigheden te verbeteren. Koop nu jouw Rubik's kubus.",
-        "skills": ["HTML", "CSS", "JAVASCRIPT", "APIS", "UX DESIGN", "GOOGLE TAG MANAGER"]
+        "skills": [
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          "APIS",
+          "UX DESIGN",
+          "GOOGLE TAG MANAGER"
+        ]
       }
     ]
   },
   "education": {
     "sectionTitle": "Opleiding",
-    "text": "Mijn meest recente academische ervaring was als <strong>Technicus</strong> in <strong>Systeemontwikkeling</strong> 🎓, waarbij ik uitblonk als <strong>beste mobiele ontwikkelaar analist</strong>. Daarnaast houd ik mezelf altijd up-to-date met intensieve online cursussen.",
+    "text": "Student <strong>Software Engineering</strong> (Unimar) met een technische opleiding in <strong>Systeemontwikkeling</strong> aan de Etec Professor Basilides de Godoy. Ik zoek mijn eerste kans in de technologiesector, met de focus op <strong>backend-ontwikkeling.</strong>",
     "schools": [
       {
         "type": "technisch",
