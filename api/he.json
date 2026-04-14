@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "ניסיון",
-    "text": "אני מפתח פרויקטים קטנים כמו \"חיות פלא\" באמצעות <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> ו<strong>APIs</strong> חיצוניות בלבד. עבור אפליקציות ווב כמו Bikcraft עבדתי על <strong>UX</strong> ו<strong>UI Design</strong> של הפרויקט. אני משתמש גם ב<strong>Google Tag Manager</strong> לניהול תגיות מעקב כמו <strong>Google Analytics</strong>, מה שמקל על מעקב אחרי התנועה והאינטראקציות באתר.",
+    "text": "אני מפתח פרויקטים המתמקדים ב<strong>Back-end</strong> ו<strong>APIs</strong> תוך שימוש ב<strong>TypeScript</strong>, תוך מתן עדיפות לקוד נקי וניתן להרחבה. בנוסף לבניית שירותים <strong>חזקים</strong>, יש לי ניסיון ב<strong>Front-end</strong> עם <strong>JavaScript</strong> ו<strong>APIs</strong> חיצוניים, כמו בפרויקט Animais Fantásticos, ובתכנון ממשקים <strong>(UX/UI Design)</strong>, שיושם בפרויקט Bikcraft.",
     "projects": [
       {
         "year": "2023",

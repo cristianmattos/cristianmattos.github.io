@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "Esperienza",
-    "text": "Sviluppo piccoli progetti come Animali Fantastici utilizzando solo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>API</strong> esterne. Per applicazioni web come Bikcraft, ho lavorato al <strong>UX</strong> e <strong>UI Design</strong> del progetto. Utilizzo anche <strong>Google Tag Manager</strong> per gestire i tag di tracciamento come <strong>Google Analytics</strong>, facilitando il monitoraggio del traffico e delle interazioni del sito.",
+    "text": "Sviluppo progetti focalizzati su <strong>Back-end</strong> e <strong>API</strong> utilizzando <strong>TypeScript</strong>, dando priorità a codice pulito e scalabile. Oltre alla costruzione di servizi <strong>robusti</strong>, ho esperienza nel <strong>Front-end</strong> con <strong>JavaScript</strong> e <strong>API</strong> esterne, come nel progetto Animais Fantásticos, e nella progettazione di interfacce <strong>(UX/UI Design)</strong>, applicata nel progetto Bikcraft.",
     "projects": [
       {
         "year": "2023",

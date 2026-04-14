@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "Erfahrung",
-    "text": "Ich entwickle kleine Projekte wie \"Fantastische Tiere\" nur mit <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> und externen <strong>APIs</strong>. Bei Webanwendungen wie \"Bikcraft\" war ich für das <strong>UX</strong>- und <strong>UI-Design</strong> verantwortlich. Ich verwende auch den <strong>Google Tag Manager</strong>, um Tracking-Tags wie <strong>Google Analytics</strong> zu verwalten und die Website-Interaktionen besser zu analysieren.",
+    "text": "Ich entwickle Projekte mit Schwerpunkt auf <strong>Back-end</strong> und <strong>APIs</strong> unter Verwendung von <strong>TypeScript</strong>, wobei ich sauberen und skalierbaren Code priorisiere. Neben dem Aufbau <strong>robuster</strong> Dienste habe ich Erfahrung im <strong>Front-end</strong> mit <strong>JavaScript</strong> und externen <strong>APIs</strong>, wie im Projekt Animais Fantásticos, sowie in der Konzeption von Benutzeroberflächen <strong>(UX/UI Design)</strong>, angewendet im Projekt Bikcraft.",
     "projects": [
       {
         "year": "2023",

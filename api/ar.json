@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "الخبرة",
-    "text": "أقوم بتطوير مشاريع صغيرة مثل \"الحيوانات الرائعة\" باستخدام فقط <strong>HTML</strong>، <strong>CSS</strong>، <strong>JavaScript</strong> و<strong>APIs</strong> الخارجية. بالنسبة لتطبيقات الويب مثل Bikcraft، عملت على <strong>UX</strong> و<strong>تصميم UI</strong> للمشروع. أستخدم أيضًا <strong>Google Tag Manager</strong> لإدارة علامات التتبع مثل <strong>Google Analytics</strong>، مما يسهل متابعة حركة المرور والتفاعلات على الموقع.",
+    "text": "أطور مشاريع تركز على <strong>الواجهة الخلفية</strong> و<strong>واجهات برمجة التطبيقات</strong> باستخدام <strong>TypeScript</strong>، مع إعطاء الأولوية لكود نظيف وقابل للتوسع. بالإضافة إلى بناء خدمات <strong>قوية</strong>، لدي خبرة في <strong>الواجهة الأمامية</strong> مع <strong>JavaScript</strong> و<strong>APIs</strong> خارجية، كما في مشروع Animais Fantásticos، وفي تصميم الواجهات <strong>(UX/UI Design)</strong>، المطبق في مشروع Bikcraft.",
     "projects": [
       {
         "year": "2023",

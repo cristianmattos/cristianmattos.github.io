@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "経験",
-    "text": "「魔法動物」などの小規模プロジェクトを<strong>HTML</strong>、<strong>CSS</strong>、<strong>JavaScript</strong>、外部<strong>API</strong>だけで開発しました。Bikcraftなどのウェブアプリでは<strong>UX</strong>と<strong>UI デザイン</strong>を担当しました。Google Analyticsやその他トラッキングツールを管理するためにGoogle Tag Managerも利用しています。",
+    "text": "<strong>TypeScript</strong>を使用して<strong>バックエンド</strong>と<strong>API</strong>に焦点を当てたプロジェクトを開発し、クリーンでスケーラブルなコードを優先しています。<strong>堅牢</strong>なサービスの構築に加え、<strong>JavaScript</strong>と外部<strong>API</strong>を使用した<strong>フロントエンド</strong>の経験もあります（Animais Fantásticosプロジェクトなど）。また、インターフェースデザイン<strong>（UX/UIデザイン）</strong>もBikcraftプロジェクトで実践しました。",
     "projects": [
       {
         "year": "2023",

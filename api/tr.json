@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "Deneyim",
-    "text": "Fantastik Hayvanlar gibi küçük projeler geliştiriyorum, sadece <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> ve harici <strong>API'lar</strong> kullanarak. Bikcraft gibi web uygulamaları için projenin <strong>UX</strong> ve <strong>UI Tasarımı</strong> üzerinde çalıştım. Ayrıca <strong>Google Analytics</strong> gibi izleme etiketlerini yönetmek için <strong>Google Tag Manager</strong> kullanıyorum, bu da trafik ve site etkileşimlerinin izlenmesini kolaylaştırıyor.",
+    "text": "<strong>TypeScript</strong> kullanarak <strong>Back-end</strong> ve <strong>API</strong>'lere odaklanan projeler geliştiriyorum, temiz ve ölçeklenebilir kodu önceliklendiriyorum. <strong>Sağlam</strong> hizmetler oluşturmanın yanı sıra, Animais Fantásticos projesinde olduğu gibi <strong>JavaScript</strong> ve harici <strong>API</strong>'lerle <strong>Front-end</strong> deneyimim ve Bikcraft projesinde uygulanan arayüz tasarımı <strong>(UX/UI Tasarımı)</strong> konusunda da deneyimim bulunmaktadır.",
     "projects": [
       {
         "year": "2023",

@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "경험",
-    "text": "저는 <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> 및 외부 <strong>API</strong>만을 사용하여 환상적인 동물들과 같은 소규모 프로젝트를 개발합니다. Bikcraft와 같은 웹 애플리케이션의 경우, 프로젝트의 <strong>UX</strong> 및 <strong>UI 디자인</strong> 작업을 담당했습니다. 또한 <strong>Google Tag Manager</strong>를 사용하여 <strong>Google Analytics</strong>와 같은 추적 태그를 관리하여 트래픽 및 사이트 상호작용 모니터링을 용이하게 합니다.",
+    "text": "<strong>TypeScript</strong>를 사용하여 <strong>백엔드</strong>와 <strong>API</strong>에 집중한 프로젝트를 개발하며, 깔끔하고 확장 가능한 코드를 우선시합니다. <strong>견고한</strong> 서비스 구축 외에도 <strong>JavaScript</strong>와 외부 <strong>API</strong>를 활용한 <strong>프론트엔드</strong> 경험이 있으며(Animais Fantásticos 프로젝트), 인터페이스 설계 <strong>(UX/UI 디자인)</strong>도 Bikcraft 프로젝트에 적용했습니다.",
     "projects": [
       {
         "year": "2023",

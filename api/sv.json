@@ -51,7 +51,7 @@
   },
   "education": {
     "sectionTitle": "Utbildning",
-    "text": "Student i <strong>Mjukvaruteknik</strong> (Unimar) med teknisk utbildning i <strong>Systemutveckling</strong> vid Etec Professor Basilides de Godoy. Jag söker min första möjlighet inom teknikbranschen med fokus på <strong>backendutveckling.</strong>",
+    "text": "Jag utvecklar projekt inriktade på <strong>Back-end</strong> och <strong>API:er</strong> med <strong>TypeScript</strong>, med fokus på ren och skalbar kod. Utöver att bygga <strong>robusta</strong> tjänster har jag erfarenhet av <strong>Front-end</strong> med <strong>JavaScript</strong> och externa <strong>API:er</strong>, som i projektet Animais Fantásticos, samt gränssnittsdesign <strong>(UX/UI Design)</strong>, tillämpad i projektet Bikcraft.",
     "schools": [
       {
         "type": "teknisk",

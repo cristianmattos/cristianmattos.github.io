@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "Ervaring",
-    "text": "Ik ontwikkel kleine projecten zoals Fantastische Dieren met alleen <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> en externe <strong>API's</strong>. Voor webapplicaties zoals Bikcraft werkte ik aan het <strong>UX</strong> en <strong>UI Design</strong> van het project. Ik gebruik ook <strong>Google Tag Manager</strong> om tracking tags zoals <strong>Google Analytics</strong> te beheren, wat het monitoren van verkeer en site-interacties vergemakkelijkt.",
+    "text": "Ik ontwikkel projecten gericht op <strong>Back-end</strong> en <strong>API's</strong> met behulp van <strong>TypeScript</strong>, met prioriteit voor schone en schaalbare code. Naast het bouwen van <strong>robuuste</strong> services heb ik ervaring in <strong>Front-end</strong> met <strong>JavaScript</strong> en externe <strong>API's</strong>, zoals in het project Animais Fantásticos, en in het ontwerpen van interfaces <strong>(UX/UI Design)</strong>, toegepast in het project Bikcraft.",
     "projects": [
       {
         "year": "2023",

@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "经验",
-    "text": "我仅使用<strong>HTML</strong>、<strong>CSS</strong>、<strong>JavaScript</strong>和外部<strong>API</strong>开发小型项目，如神奇动物。对于像Bikcraft这样的网络应用程序，我负责项目的<strong>UX</strong>和<strong>UI设计</strong>工作。我还使用<strong>Google Tag Manager</strong>来管理<strong>Google Analytics</strong>等跟踪标签，便于监控流量和网站交互。",
+    "text": "我开发专注于<strong>后端</strong>和<strong>API</strong>的项目，使用<strong>TypeScript</strong>，优先考虑简洁且可扩展的代码。除了构建<strong>健壮</strong>的服务外，我还拥有<strong>前端</strong>开发经验，使用<strong>JavaScript</strong>和外部<strong>API</strong>，例如Animais Fantásticos项目，以及界面设计<strong>（UX/UI设计）</strong>，应用于Bikcraft项目。",
     "projects": [
       {
         "year": "2023",

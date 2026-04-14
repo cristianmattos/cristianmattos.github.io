@@ -10,7 +10,7 @@
   },
   "experience": {
     "sectionTitle": "Erfaring",
-    "text": "Jeg utvikler små prosjekter som Fantastiske Dyr ved å bruke bare <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> og eksterne <strong>APIer</strong>. For webapplikasjoner som Bikcraft jobbet jeg med prosjektets <strong>UX</strong> og <strong>UI Design</strong>. Jeg bruker også <strong>Google Tag Manager</strong> for å administrere sporingstagger som <strong>Google Analytics</strong>, noe som letter overvåkning av trafikk og nettstedsinteraksjoner.",
+    "text": "Jeg utvikler prosjekter fokusert på <strong>Back-end</strong> og <strong>API-er</strong> ved hjelp av <strong>TypeScript</strong>, med prioritet på ren og skalerbar kode. I tillegg til å bygge <strong>robuste</strong> tjenester har jeg erfaring med <strong>Front-end</strong> med <strong>JavaScript</strong> og eksterne <strong>API-er</strong>, som i prosjektet Animais Fantásticos, samt grensesnittdesign <strong>(UX/UI Design)</strong>, anvendt i prosjektet Bikcraft.",
     "projects": [
       {
         "year": "2023",
