@@ -149,17 +149,19 @@ z-index: -1;
 }
 
 
-
+@media (max-width: 530px) {
+  .empresa {
+    grid-template-columns: 1fr;
+  }
+}
 
 
 
 
 @media (max-width: 400px) {
-  .empresa {
-    grid-template-columns: 1fr;
-  }
 
- span.empresa-titulo{
+
+ span.empresa-titulo, .empresa-texto{
   display: none;
 }
 }
